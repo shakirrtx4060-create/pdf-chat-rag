@@ -60,6 +60,7 @@ with st.sidebar:
             "llama-3.1-8b-instant",
             "mixtral-8x7b-32768",
             "gemma2-9b-it",
+            "qwen/qwen3.6-27b",
         ],
         index=0,
     )
