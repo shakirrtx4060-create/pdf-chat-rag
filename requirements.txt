@@ -7,3 +7,4 @@ chromadb
 sentence-transformers
 pypdf
 python-dotenv
+langchain-core
