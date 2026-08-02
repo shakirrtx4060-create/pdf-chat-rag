@@ -61,7 +61,7 @@ with st.sidebar:
             "mixtral-8x7b-32768",
             "gemma2-9b-it",
             "qwen/qwen3.6-27b",
-            openai/gpt-oss-120b,
+            "openai/gpt-oss-120b",
         ],
         index=0,
     )
