@@ -1,7 +1,7 @@
 import os
 import streamlit as st
 from pathlib import Path
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_core.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_groq import ChatGroq
 from langchain.prompts import ChatPromptTemplate
